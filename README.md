@@ -8,7 +8,7 @@
 - **Diseña un programa para calcular el sueldo semanal de un empleado, dadas las horas trabajadas y la tarifa horaria (cuánto se le paga por cada hora trabajada).** Considerar que si trabajó más de 48 horas, las horas excedentes se pagan al doble. 
 **Desglosar** la cantidad y el importe correspondientes a las horas extras.
 
-- Codifica tu solución en el archivo [`main.py`](/main.py).
+- Codifica tu solución en el archivo [`sueldo.py`](/sueldo.py).
    
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```

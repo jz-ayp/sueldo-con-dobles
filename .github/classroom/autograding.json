@@ -3,7 +3,7 @@
     {
       "name": "Test47",
       "setup": "",
-      "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
+      "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "47\r\n100",
       "output": "0(\n|.)*0(\n|.)*4700",
       "comparison": "regex",
@@ -13,7 +13,7 @@
     {
       "name": "Test48",
       "setup": "",
-      "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
+      "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "48\r\n100",
       "output": "0(\n|.)*0(\n|.)*4800",
       "comparison": "regex",
@@ -23,7 +23,7 @@
     {
       "name": "Test49",
       "setup": "",
-      "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
+      "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "49\r\n100",
       "output": "1(\n|.)*200(\n|.)*5000",
       "comparison": "regex",
@@ -33,7 +33,7 @@
     {
       "name": "Test51",
       "setup": "",
-      "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
+      "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "51\r\n100",
       "output": "3(\n|.)*600(\n|.)*5400",
       "comparison": "regex",
@@ -43,7 +43,7 @@
     {
       "name": "Test48.5",
       "setup": "",
-      "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
+      "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "48.5\r\n100",
       "output": "0.5(\n|.)*100.0(\n|.)*4900.0",
       "comparison": "regex",
