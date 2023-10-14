@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Test47",
+      "name": "47 horas",
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "47\r\n100",
@@ -11,7 +11,7 @@
       "points": 1
     },
     {
-      "name": "Test48",
+      "name": "48 horas",
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "48\r\n100",
@@ -21,7 +21,7 @@
       "points": 1
     },
     {
-      "name": "Test49",
+      "name": "49 horas",
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "49\r\n100",
@@ -31,7 +31,7 @@
       "points": 1
     },
     {
-      "name": "Test51",
+      "name": "51 horas",
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "51\r\n100",
@@ -41,7 +41,7 @@
       "points": 1
     },
     {
-      "name": "Test48.5",
+      "name": "48.5 horas",
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 sueldo.py",
       "input": "48.5\r\n100",
